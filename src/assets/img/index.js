@@ -1,0 +1,9 @@
+export {default as img17} from './17.webp';
+export {default as img10} from './10.webp';
+export {default as img11} from './11.webp';
+export {default as img21} from './21.webp';
+export {default as img24} from './24.webp';
+export {default as img19} from './19.webp';
+export {default as img5} from './5.webp';
+export {default as img8} from './8.webp';
+export {default as img20} from './20.webp';

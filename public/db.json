@@ -1,0 +1,330 @@
+ {
+   "shoes": [
+     {
+       "id": "001",
+       "name": "Nike Air Force 1 white",
+       "price": "1,000,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61aK0sqnmn_IZ9ds1naWQxGNsooi_jITP2Q&usqp=CAU",
+       "category": "Hype",
+       "wishList": false
+     },
+     {
+       "id": "002",
+       "name": "Adidas NY 90 WHITE",
+       "price": "2,100,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-8Gtujy5z2UuhkRGCqAKR4_XLZxnS4rfww&usqp=CAU",
+       "category": "Hype",
+       "wishList": false
+     },
+     {
+       "id": "003",
+       "name": "Two-Tone High-Top Platform Sneakers - Light Grey",
+       "price": "1,500,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfIL0Wwsms1bUB5OLPU9lIo0loyJaD4hw3iQ&usqp=CAU",
+       "category": "Hype",
+       "wishList": false
+     },
+     {
+       "id": "004",
+       "name": "Adidas jeans MK II grey blue",
+       "price": "2,300,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7M2xQuVFRFr9Izmb01DE8v-XwfxP6LptwA&usqp=CAU",
+       "category": "Hype",
+       "wishList": false
+     },
+     {
+       "id": "005",
+       "name": "Ortuseight X never too lavish 'RHEIN",
+       "price": "2,980,000",
+       "image": "https://images.tokopedia.net/img/cache/700/hDjmkQ/2022/3/20/95071560-3e7a-4cdc-977e-ad1c00bbc98d.jpg.webp",
+       "category": "Hype",
+       "wishList": false
+     },
+     {
+       "id": "006",
+       "name": "Converse Red All Star Hi Eva Lift Denim Junior Trainers",
+       "price": "900,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQibFOXuSZkzMDQGEdVLLj3DYApSIe5FUPHKQ&usqp=CAU",
+       "category": "Hype",
+       "wishList": false
+     },
+     {
+       "id": "007",
+       "name": "Chuck taylor All stars - Ox",
+       "price": "1,200,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGZOceBUZBM4kMm1JBNFr7cNy4WCpGxD7RQ&usqp=CAU",
+       "category": "Hype",
+       "wishList": false
+     },
+     {
+       "id": "008",
+       "name": "Adidas Yeezy Boots 350 V2 Zebra",
+       "price": "2,300,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0AqqU6Mco7V1WDs5UWNoDeUqkDsc0Q17cQ&usqp=CAU",
+       "category": "Hype",
+       "wishList": false
+     },
+     {
+       "id": "009",
+       "name": "Nike Air Max 90 G Golf",
+       "price": "3,000,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqXVqzqxiSR2Fap9xPeaWM7C-8INGSdVJnQ&usqp=CAU",
+       "category": "Hype",
+       "wishList": false
+     },
+     {
+       "id": "010",
+       "name": "Fans Old Skool",
+       "price": "980,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWf-jW0J7LAB5BOB_jkuPzZ9ak3hFB7wEWFg&usqp=CAU",
+       "category": "Hype",
+       "wishList": false
+     }
+   ],
+   "hoodies": [
+      {
+       "id": "101",
+       "name": "Pullover sweat hoodie",
+       "price": "340,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_bLLoQLnGdZbpfs2ePVWEEH2D8pMOY--R6g&usqp=CAU",
+       "category": "",
+       "wishList": false
+     },
+     {
+       "id": "102",
+       "name": "Hoddie SKM JAPANESE SANDWASH",
+       "price": "430,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIkThHNYd964JjdDmQ4G1KEgUXwvc0ihNNQ&usqp=CAU",
+       "category": "",
+       "wishList": false
+     },
+     {
+       "id": "103",
+       "name": "Hoodie wash distro",
+       "price": "230,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIkThHNYd964JjdDmQ4G1KEgUXwvc0ihNNQ&usqp=CAU",
+       "category": "",
+        "wishList": false
+     },
+     {
+       "id": "104",
+       "name": "Roughneck hoodie",
+       "price": "320,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjwGoZDmOS1Msbcx3w6YEL02mk4XoLMPO4g&usqp=CAU",
+       "category": "",
+        "wishList": false
+     },
+     {
+       "id": "105",
+       "name": "Vintage style 90s nike hoodie spellout",
+       "price": "450,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsUrWT-0gvVo73t7naUpZNXLWE7cr3egMdA&usqp=CAU",
+       "category": "",
+        "wishList": false
+     },
+     {
+       "id": "106",
+       "name": "One Piece hoodie-PULL & BEAR",
+       "price": "650,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8w-Q-zXj1lAfaanLOlUQqKYtYYWic4yCAw&usqp=CAU",
+       "category": "",
+        "wishList": false
+     },
+     {
+       "id": "107",
+       "name": "Natural born sinner hoodie vintage black",
+       "price": "320,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdos4H3RNmyFkTDfpuJHqhl9KwfgRGQun49w&usqp=CAU",
+       "category": "",
+       "wishList": false
+     },
+     {
+       "id": "108",
+       "name": "Represent every rose hoodie vintage grey",
+       "price": "230,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv8h4FTlORWHqyUQ6t9p0nY9jTtP6tD45O3g&usqp=CAU",
+       "category": "",
+       "wishList": false
+     },
+     {
+       "id": "109",
+       "name": "Vintage wash recess hoodie",
+       "price": "240,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8obzOMyo28Hp73c9KQELzzrUUjJE-BtgprQ&usqp=CAU",
+       "category": "",
+       "wishList": false
+     },
+     {
+       "id": "110",
+       "name": "Rare vitange 90s block hoodie",
+       "price": "460,000",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSprpTs-5kruulet7m7yWcFdpkZ_0CivhAURw&usqp=CAU",
+       "category": "",
+       "wishList": false
+     }
+    ],
+    "tShirts": [
+       {
+         "id": "201",
+         "name": "Polo t-shirt pique lengan pendek",
+         "price": "250,00",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4cMG7cPz4zMG0haEdN38w_20EROrgN5FHQ&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "202",
+         "name": "V neck t-shirt slim fit",
+         "price": "300,000",
+         "image": "https://dynamic.zacdn.com/xna2Hnmn61Fn6UVTeHw8fJwAK9I=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hm-5872-0810113-1.jpg",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "203",
+         "name": "Relaxed fit t-shirt h&m",
+         "price": "340,000",
+         "image": "https://dynamic.zacdn.com/nFik5GOpP9YbwYyYOFI6Cdn9LzI=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hm-8868-1789293-1.jpg",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "204",
+         "name": "T-Shirt Oversize Crew Neck Uniqlo",
+         "price": "360,000",
+         "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433031/item/goods_34_433031.jpg?width=494",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "205",
+         "name": "h&m relaxed fit printed t-shirt",
+         "price": "240,000",
+         "image": "https://dynamic.zacdn.com/Xy-X4b71ZixihhG0xMwByF9KCL8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hm-5876-0063804-1.jpg",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "206",
+         "name": "h&m regular fit round-neck t-shirt",
+         "price": "250,000",
+         "image": "https://dynamic.zacdn.com/KOPtX5mVamgxB9oNiv3MvKE2Ngs=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hm-8555-3664404-1.jpg",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "207",
+         "name": "Zara T-Shirt X Mickey",
+         "price": "500,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6Fq5gvZpt69yrRnk2h8LybZ6YUMrBlfMKg&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "208",
+         "name": "UT t-shirt tolak angin",
+         "price": "320,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROV2JTHASCUdt8MLktvJaJcu0ZxK050quQDw&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "209",
+         "name": "Hokusai colors UT",
+         "price": "310,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQRrgBx8h0lAs99oWzz65KTcrrKiO8vefjeg&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "210",
+         "name": "Regular fit cotton t-shirt",
+         "price": "230,000",
+         "image": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/ef9d1fb11f51b254cb6868fb9d3231198a3d8541_xxl-1.jpg",
+         "category": "",
+       "wishList": false
+       }
+    ],
+    "dress": [
+       {
+         "id": "301",
+         "name": "Women white tube sheer d",
+         "price": "400,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFbCuBYe8ow2LD0Kj4IpuNKYqoe74rMFAaNg&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "302",
+         "name": "Mid length open front dress dior",
+         "price": "460,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfqatyRCvvfVqDIulcOcRgUPSQPjEf9BYMg&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "303",
+         "name": "Jezzelle dress",
+         "price": "350,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT81gcr6wz4GvEArfszFZICPXCnPDsMRGW8cg&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "304",
+         "name": "Short open front dress Dior",
+         "price": "10,000,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHltgphg0-ShiThW_eOawKzp7iN1rFcvYo1w&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "305",
+         "name": "Mid length shirt dress",
+         "price": "350,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ_VRHTwNjHsa_IsMDBlBx77H2CD8fU20juw&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "306",
+         "name": "Elegance peach dress",
+         "price": "250,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWlHyTBhJLj6pwUzoCy1nzR1s51saegspyQ&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "307",
+         "name": "Flared mid-length dress dior",
+         "price": "10,500,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5dc0MjIiuXOvz_qxLuxEr6ouLoQGkgV7EwQ&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "308",
+         "name": "Uqilo women printed wrap dress",
+         "price": "670,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToUpIok56jl-bLz8Wy3AMW-a0NoT4GxCPLcQ&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "309",
+         "name": "Gucci reborn detailed tweed dress",
+         "price": "25,000,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_RwCccPzNNP6u0r2qqU3tXfhP5VA0QxZNlg&usqp=CAU",
+         "category": "",
+       "wishList": false
+       },
+       {
+         "id": "310",
+         "name": "Glamorous ruched bust wrap over midi",
+         "price": "760,000",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSIiBgcmWd5wHhjhARlP9mfHoyKyx5Hni-pQ&usqp=CAU",
+         "category": "",
+       "wishList": false
+       }
+     ]
+}
